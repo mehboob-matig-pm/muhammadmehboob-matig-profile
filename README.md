@@ -144,7 +144,10 @@ When no existing tool solves your problem, we build one. We develop custom deskt
 Available for both short-term projects and long-term collaboration. Whether you need a full project managed end to end, a QA cycle completed, a custom CRM built, or a Google Apps Script automation that saves your team hours every week — get in touch.
 
 Email: mehboob@matigtechnologix.online
+
 Portfolio: https://matigtechnologix.online
+
 Upwork: https://www.upwork.com/freelancers/~01284d3ab08e099576
+
 LinkedIn: https://www.linkedin.com/in/muhammadmehboob-matig-technologix-projectmanager
 
