@@ -1,9 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Muhammad%20Mehboob&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Project%20Manager%20%26%20QA%20Lead%20%40%20MATIG%20Technologix&descAlignY=58&descSize=18" width="100%"/>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=180&section=header&text=Muhammad%20Mehboob&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Project%20Manager%20%26%20QA%20Lead%20%40%20MATIG%20Technologix&descAlignY=58&descSize=18" width="100%"/> </div> <!-- Profile Photo --> <div align="center"> <img src="https://res.cloudinary.com/folpmq9g/image/upload/v1790093181/eii78rjvt5y6xfpltnf9.png" width="120" height="120" style="border-radius: 50%;" alt="Muhammad Mehboob"/> </div>
 
 <!-- Badges -->
 <div align="center">
