@@ -2,160 +2,149 @@
 <div align="center">
 
 <h1>Muhammad Mehboob</h1>
-<h3>Project Manager & QA Lead @ MATIG Technologix</h3>
+<h3>Project Manager and QA Lead at MATIG Technologix</h3>
 
 <img src="https://res.cloudinary.com/folpmq9g/image/upload/v1790093181/eii78rjvt5y6xfpltnf9.png" width="130" height="130" style="border-radius:50%;border:3px solid #0A66C2;" alt="Muhammad Mehboob"/>
 
 </div>
-<!-- Badges -->
+
+<br/>
+
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-matigtechnologix.online-0A66C2?style=for-the-badge)](https://matigtechnologix.online)
+[![Portfolio](https://img.shields.io/badge/Portfolio-matigtechnologix.online-0A66C2?style=for-the-badge)](https://matigtechnologix.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmehboob-matig-technologix-projectmanager)
-[![Email](https://img.shields.io/badge/Email-mehboob@matigtechnologix.online-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehboob@matigtechnologix.online)
 [![Upwork](https://img.shields.io/badge/Upwork-100%25%20JSS-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01284d3ab08e099576)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehboob@matigtechnologix.online)
 
 </div>
 
 ---
 
-<!-- Stats Row -->
 <div align="center">
 
-| 🚀 Projects | ⏱️ Hours | ✅ Job Success | 👥 Team Size | 📅 Since |
+| Projects | Hours | Job Success | Team Size | Member Since |
 |:---:|:---:|:---:|:---:|:---:|
-| **202+** | **7,172+** | **100%** | **51–200 workers** | **Nov 2020** |
+| 202+ | 7,172+ | 100% | 51-200 workers | Nov 2020 |
 
 </div>
 
 ---
 
-## 👋 About Me
+## About Me
 
-I am Muhammad Mehboob, Project Manager and QA Lead at **MATIG Technologix**. With **4 years of experience**, I manage software and QA projects end to end so clients get results without chasing updates or managing multiple people themselves.
+I am Muhammad Mehboob, Project Manager and QA Lead at MATIG Technologix with 4 years of hands-on experience delivering software projects end to end. I manage everything from requirements to final delivery so clients never have to chase updates, coordinate multiple people, or worry about timelines falling apart.
 
-- 🏆 **Rising Talent** badge on Upwork
-- 💰 **$60K+ earned** with 100% Job Success Score
-- 🏢 Agency with **51–200 workers** — Large and medium business focus
-- 📍 Khanewal, Pakistan — Available worldwide remotely
-- 🌍 Open to remote work — US, UK, AU, and worldwide
+At MATIG Technologix, we combine experienced project management with modern AI-assisted development workflows. We use AI tools to accelerate development speed, automate repetitive tasks, debug issues faster, and maintain higher code quality across every project. The result is faster delivery without cutting corners.
+
+- Rising Talent on Upwork
+- $60K+ earned with 100% Job Success Score
+- 20 clients in first 4 months with 100% Job Success
+- Large business and medium business focus
+- Available worldwide remotely — US, UK, AU, and beyond
 
 ---
 
-## 🔧 What I Do
+## What I Deliver
 
-### 📋 Project Management
-- Full lifecycle management — requirements gathering to final delivery
-- Sprint planning, milestone tracking, and risk management
-- Clear client reporting and stakeholder communication
-- Coordinating developers, QA engineers, and testers across the team
+### Project Management
+I handle the full project lifecycle so nothing falls through the cracks. From the first requirement gathering call to the final delivery report, I keep everything on track, communicate clearly, and make sure the right people are working on the right things at the right time.
 
-### 🧪 QA and Testing
+- Requirements gathering and project scope definition
+- Sprint planning, milestone tracking, and deadline management
+- Developer and QA engineer coordination
+- Risk identification and blocker resolution
+- Structured progress updates and delivery reports
+
+### QA and Software Testing
+Quality is built in from the start, not checked at the end. I plan and manage full QA cycles across manual, regression, and automation testing with structured reports that developers can actually act on.
+
 - Manual and regression testing
 - 500+ structured test cases across live projects
-- Playwright end to end automation scripts
+- Playwright end to end automation
 - API testing and validation using Postman
 - Security testing — authentication, broken access control, input validation
+- Google Play Console testing with 15 dedicated Android testers
 
-### 📱 Google Play Console Testing
-- **15 dedicated testers** with physical Android devices
-- Android 8.0 and above — real devices only, no emulators
-- Internal, closed, and open track support
-- Structured reports and full task block coordination
+### Full Stack Web Development
+We build complete web applications from database to user interface. Using AI-assisted development workflows, we move faster, catch bugs earlier, and deliver cleaner code than a traditional development process allows.
 
----
+- Custom web application development
+- Frontend and backend integration
+- Database design and API development
+- Performance optimization and code review
 
-## 🛠️ Tools and Technologies
+### Custom CRM Development
+Off-the-shelf CRMs never fit exactly. We build custom CRM systems tailored to how your team actually works — your pipeline stages, your data fields, your reporting needs — without paying for features you will never use.
 
-<div align="center">
+- Custom CRM built around your sales and operations workflow
+- Lead management, pipeline tracking, and reporting dashboards
+- Integration with your existing tools and data sources
+- Built to scale as your team grows
 
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+### Google Apps Script and Automation
+Most teams waste hours every week on tasks that can be fully automated. We build Google Apps Script solutions that connect your Sheets, Docs, Gmail, Calendar, and Forms into automated workflows that run without anyone touching them.
 
-</div>
+- Google Sheets automation and custom functions
+- Gmail and Calendar workflow automation
+- Google Forms data processing and reporting
+- Cross-application automation connecting multiple Google Workspace tools
+- Scheduled scripts and trigger-based automation
 
----
+### Custom Software Development
+When no existing tool solves your problem, we build one. We develop custom desktop and web software using AI-assisted development to deliver faster without sacrificing quality or reliability.
 
-## 📊 Expertise Areas
-
-```
-Manual & Regression Testing     ████████████████████  100%
-API Testing with Postman        ████████████████████  100%
-Google Play Console Testing     ████████████████████  100%
-Project Management              ████████████████████  100%
-B2B Lead Generation             ████████████████████   100%
-Playwright Automation           ████████████████░░░░   80%
-Full Stack Web Development      ███████████████░░░░░   75%
-Security Testing                ███████████████░░░░░   75%
-
-```
+- Custom desktop applications using Electron
+- Workflow automation tools
+- Data processing and reporting software
+- Built LocationScan — an Electron desktop tool for bulk URL location scanning
 
 ---
 
-## 🏆 Track Record
+## Tools and Technologies
 
-<div align="center">
+| Category | Tools |
+|---|---|
+| Test Automation | Playwright, Selenium |
+| API Testing | Postman, REST APIs |
+| Automation and Scripting | Google Apps Script |
+| Project Management | Jira, Trello, Asana, ClickUp |
+| Mobile Testing | Google Play Console, Android devices |
+| Development | Electron, React Native, Full Stack Web |
+| AI Development Tools | AI-assisted coding, debugging, and optimization |
+| Documentation | Confluence, Notion, Google Docs |
+
+---
+
+## Track Record
 
 | Metric | Result |
 |---|---|
 | Total Projects Delivered | 202+ |
-| Total Hours on Upwork | 7,172+ |
+| Total Hours | 7,172+ |
 | Job Success Score | 100% |
 | Total Earned | $60K+ |
-| Structured Test Cases Written | 500+ |
-| Agency Workers | 51–200 |
+| Test Cases Written | 500+ |
+| Android Testers Available | 15 dedicated testers |
+| Agency Size | 51-200 workers |
 | Member Since | November 2020 |
-| Awards | 20 Clients in 4 months with 100% JSS |
-
-</div>
+| Awards | 20 clients in 4 months with 100% Job Success |
 
 ---
 
-## 💼 Featured Project
-
-### 🔍 LocationScan
-> An Electron desktop tool built for bulk URL location scanning. Designed to streamline location-based URL verification at scale for QA and data validation workflows.
-
----
-
-## 📂 Repositories
-
-| Repository | Description |
-|---|---|
-| test-case-templates | Structured manual test case templates for web and mobile apps |
-| postman-api-testing-samples | Sample Postman collections for REST API testing |
-| playwright-automation-samples | End to end automation scripts using Playwright |
-| qa-documentation-templates | Test plan, bug report, and QA checklist templates |
-| locationscan | Electron desktop tool for bulk URL location scanning |
-
----
-
-## 🌐 Languages
+## Languages
 
 - English — Fluent
 - Urdu — Fluent
 
 ---
 
-## 📬 Let's Work Together
+## Let's Work Together
 
-Available for short-term projects and long-term collaboration. Large business and medium business focus.
+Available for both short-term projects and long-term collaboration. Whether you need a full project managed end to end, a QA cycle completed, a custom CRM built, or a Google Apps Script automation that saves your team hours every week — get in touch.
 
-📧 **mehboob@matigtechnologix.online**
-🌐 **https://matigtechnologix.online**
-💼 **linkedin.com/in/muhammadmehboob-matig-technologix-projectmanager**
+Email: mehboob@matigtechnologix.online
+Portfolio: https://matigtechnologix.online
+Upwork: https://www.upwork.com/freelancers/~01284d3ab08e099576
+LinkedIn: linkedin.com/in/muhammadmehboob-matig-technologix-projectmanager
 
----
-
-<!-- Footer -->
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0A66C2&height=100&section=footer" width="100%"/>
-
-</div>
