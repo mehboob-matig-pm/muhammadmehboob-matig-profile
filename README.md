@@ -11,7 +11,7 @@
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-matigtechnologix.online-0A66C2?style=for-the-badge)](https://matigtechnologix.online)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammadmehboob-matig-technologix-projectmanager)
 [![Email](https://img.shields.io/badge/Email-mehboob@matigtechnologix.online-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehboob@matigtechnologix.online)
-[![Upwork](https://img.shields.io/badge/Upwork-100%25%20JSS-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com)
+[![Upwork](https://img.shields.io/badge/Upwork-100%25%20JSS-6FDA44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01284d3ab08e099576)
 
 </div>
 
