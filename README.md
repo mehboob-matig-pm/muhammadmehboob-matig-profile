@@ -146,5 +146,5 @@ Available for both short-term projects and long-term collaboration. Whether you 
 Email: mehboob@matigtechnologix.online
 Portfolio: https://matigtechnologix.online
 Upwork: https://www.upwork.com/freelancers/~01284d3ab08e099576
-LinkedIn: linkedin.com/in/muhammadmehboob-matig-technologix-projectmanager
+LinkedIn: https://www.linkedin.com/in/muhammadmehboob-matig-technologix-projectmanager
 
